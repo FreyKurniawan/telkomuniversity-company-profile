@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Profil - Telkom University';
-require("includes/header.php");
+require 'includes/header.php';
 ?>
 <section class="section">
     <div class="container article-body">
